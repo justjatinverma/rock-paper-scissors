@@ -9,14 +9,14 @@ body{
 }
 
 div{
-    font-size: 5rem;
+    font-size: 2rem;
 }
 
 .selection{
     background: none;
     border: none;
     outline: none;
-    font-size: 10rem;
+    font-size: 5rem;
     transition: 100ms;
 }
 
@@ -36,17 +36,17 @@ div{
 
 .results-score{
     margin-left: .1rem;
-    font-size: 5rem;
+    font-size: 1rem;
     color: #333;
     
 }
 
 .result-selection{
     opacity: .5;
-    font-size: 5rem;
+    font-size: 2rem;
 }
 
 .result-selection.winner{
     opacity: 1;
-    font-size: 5rem;
+    font-size: 3rem;
 }
